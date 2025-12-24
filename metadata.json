@@ -1,0 +1,5 @@
+{
+  "name": "Django SQL vs ORM Master",
+  "description": "An interactive learning platform for mastering Django ORM and raw SQL side-by-side with AI-powered feedback.",
+  "requestFramePermissions": []
+}
